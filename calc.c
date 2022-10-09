@@ -1,5 +1,5 @@
 /*  Author : Vinit Patel.
-    Write a program to design basic calculator.
+    Program to design basic calculator.
 */
 #include<stdio.h>
 void main()
