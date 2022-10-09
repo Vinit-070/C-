@@ -1,4 +1,5 @@
-/* Program to Print Details in following Format :
+/*  Author : Vinit Patel.
+        Program to Print Details in following Format :
         Name : "xyz"
         Collage Name : CGPIT
         Branch Name : Computer Engineering
