@@ -1,4 +1,5 @@
-/*  Write a program that reads variables with different data types and
+/*  Author : Vinit Patel.
+    Write a program that reads variables with different data types and
     display their value.
 */ 
 #include<stdio.h>
