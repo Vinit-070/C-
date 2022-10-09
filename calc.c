@@ -18,6 +18,6 @@ void main()
     printf("%.2f + %.2f =  %.2f\n",a,b,add);
     printf("%.2f - %.2f =  %.2f\n",a,b,sub);
     printf("%.2f x %.2f =  %.2f\n",a,b,mul);
-    printf("%.2f / %.2f =  %.2f\n",a,b,div);
+    printf("%.2f ÷ %.2f =  %.2f\n",a,b,div);
     
 }
