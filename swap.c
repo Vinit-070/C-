@@ -1,4 +1,6 @@
-// Write a program to swap two numbers using third variable.
+/* Author : Vinit Patel.
+    Write a program to swap two numbers using third variable.
+*/
 #include <stdio.h>
 void main()
 {
