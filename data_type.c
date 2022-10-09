@@ -1,4 +1,4 @@
-/*  Author : Vinit Patel.
+/*  Author : Vinit Patel. 
     Write a program that reads variables with different data types and
     display their value.
 */ 
