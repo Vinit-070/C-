@@ -1,5 +1,5 @@
 /* Author : Vinit Patel.
-   Write a program to check whether the number is odd or even. (if else) 
+   Program to check whether the number is odd or even. (if else) 
 */
 #include<stdio.h>
 void main()
