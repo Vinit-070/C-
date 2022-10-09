@@ -1,4 +1,6 @@
-// Write a program to compute Fahrenheit from Centigrade 
+/*  Author : Vinit Patel.
+    Write a program to compute Fahrenheit from Centigrade  
+*/
 #include <stdio.h>
 void main() 
 {
